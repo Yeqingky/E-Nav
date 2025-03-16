@@ -71,7 +71,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 ### 克隆源代码
 ```bash
-git clone https://github.com/ecouus/E-Nav.git
+git clone https://github.180280.xyz/https://github.com/Yeqingky/E-Nav.git
 cd E-Nav
 ```
 

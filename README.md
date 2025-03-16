@@ -18,7 +18,7 @@
 **Docker Compose 部署**
 #### 下载源文件
 ```bash
-sudo apt install git -y && git clone https://github.com/https://github.com/Yeqingky/E-Nav.git && cd E-Nav 
+sudo apt install git -y && git clone https://github.180280.xyz/https://github.com/Yeqingky/E-Nav.git && cd E-Nav 
 ```
 根据需要编辑 `docker-compose.yml` 文件
 #### 启动
