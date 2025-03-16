@@ -3,7 +3,8 @@ services:
     image: ecouus/e-nav:latest
     container_name: e-nav
     ports:
-      - "1239:1239"
+      - "801:1239"
     volumes:
       - ./data:/app/data
+      - ./templates:/app/templates
     restart: unless-stopped
