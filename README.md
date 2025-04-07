@@ -4,7 +4,6 @@
 
 ![Docker](https://img.shields.io/badge/Docker-支持-blue?logo=docker)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Version](https://img.shields.io/badge/Version-1.0.0-orange)
 ![Go](https://img.shields.io/badge/Go-1.24.1-00ADD8?logo=go)
 
 <p>一个优雅、现代的个人导航站解决方案，让您的网址管理更轻松、更智能！制作不易，欢迎点个免费的Star⭐</p>
